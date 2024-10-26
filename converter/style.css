@@ -1,0 +1,61 @@
+.parent{
+    width: 30%;
+    height: 440px;
+    margin-left: 30%;
+    margin-top: 5%;
+    border: 1px solid black;
+    padding-top: 2%;
+    border-radius: 5px;
+    background: linear-gradient(#243642,#387478);
+    color: aliceblue;
+    font-family: "Roboto";
+}
+
+.heads, .boxes, button{
+    margin-left: 4%;
+    border-radius: 5px;
+}
+h1{ 
+    width: 100%;
+    text-align: center;
+    margin-top: 2%;
+}
+h4{
+    width: 50%;
+    margin-left: 20%;
+    border: 1px solid black;
+    height: 30px;
+    padding-top: 2%;
+    border-radius: 5px;
+    margin-top: 2%;
+    text-align: center;
+    background-color: aliceblue;
+    color: rgb(219, 17, 17);
+    
+}
+.heads{
+    width: 40%; 
+    font-size: small;
+    margin-top: 4%;    
+}
+
+.boxes{
+    width: 90%;
+    height: 25px;
+    margin-bottom: 5%;
+    color: black;
+
+}
+option{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+button{
+    width: 45%;
+    height: 40px;
+    border: 1px solid black;
+    margin-left: 25%;
+    padding-top: 3px;
+    font-size: large;
+}
